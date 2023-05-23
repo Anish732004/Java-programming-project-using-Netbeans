@@ -16,7 +16,7 @@ Under the guidance of Dr. ARPIT BHARDWAJ, a Professor at BML Munjal University, 
 
 My team members are 
 
-Anish Borkar
+Godavarthi Sai Nikhil
 
 Dyuti Dasmahapatra
 
@@ -25,4 +25,4 @@ Nichenametla Karthik Raja
 Anoushka Srivastava
 
 
-                                         Contact-nikhilgodavarthi9@gmail.com
+                                         Contact-anishborkar73@gmail.com
